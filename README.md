@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Selectedco2
+- 👀 I’m interested in gamimg and running.
+- 🌱 I’m currently learning C# And html
+- 👍 You can reach me mostly on discord, but also on my mail
+- 😁 I love meeting and talking to new people
