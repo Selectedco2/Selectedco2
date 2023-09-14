@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Selectedco2
+- 👋 Hi, I’m Andreas
 - 👀 I’m interested in gamimg and running.
 - 🌱 I’m currently learning C# And html
 - 👍 You can reach me mostly on discord, but also on my mail
