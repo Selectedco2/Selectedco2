@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Andreas
-- 👀 I’m interested in gamimg and running.
+- 👀 I’m interested in gamim
+- ng and running.
 - 🌱 I’m currently learning C# And html
 - 👍 You can reach me mostly on discord, but also on my mail
 - 😁 I love meeting and talking to new people
